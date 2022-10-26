@@ -4,9 +4,10 @@ main{
     background-size: cover;
     background-image: url(/images/background.jpg);
 }
-body  {
-    background-image: url("img_tree.gif");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-  }
+.about{
+    background-color: #7cfc00;
+    
+}
+
+
 
