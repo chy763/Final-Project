@@ -1,0 +1,20 @@
+.topBtn{
+    position: fixed;
+    right: 45%;
+    bottom: 0%;
+}
+.topBtn button{
+    color: #00f;;
+    padding: 5px 20px;
+    border-radius: 10px;
+    background-color: #000;
+    
+}
+.topBtn button:hover{
+    background-color: blue;
+    color: #fff;
+}
+.topBtn button:active{
+    background: color #9400d3;;
+    color: #000;
+}
