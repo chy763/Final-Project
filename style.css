@@ -86,7 +86,8 @@ div h3{
     background-color: #00bfff;
     font-style: italic;
     font-size: x-large;
-    float: inline-start;
+    float: inline-start;    
+    background-image: url(/images/background.jpg);
 }
 
 .about{

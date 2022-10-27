@@ -3,6 +3,7 @@ main{
     height: 100%;
     background-size: cover;
     background-image: url(/images/background.jpg);
+    margin: 100px;
 }
 
 
