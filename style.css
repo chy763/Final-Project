@@ -77,8 +77,12 @@ p{
     height: 100px;
     text-align:center;
 }
+section h2{
+    border-style: dotted;
+    background-color: #ffe4e4;
+}
 div h3{
-    background-color: #00bfff;
+    background-color:rgba(78,0,255,1);
     font-style: italic;
     font-size: xx-large;
     
