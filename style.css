@@ -77,6 +77,10 @@ p{
     height: 100px;
     text-align:center;
 }
+h1{
+    text-align: center;
+    background-color:cornflowerblue;
+}
 section h2{
     border-style: dotted;
     background-color: #ffe4e4;
@@ -93,10 +97,10 @@ div h3{
     font-size: x-large;
     float: inline-start;    
 }
-.about{
+.border{
     background-color: #7cfc00;
-    font-style: italic;
-    
+    font-style: italic;   
+    border: 2px solid #000;
 }
 .topBtn{
     position: fixed;
@@ -128,4 +132,7 @@ footer{
     width: 100%;
     background-color: red ;
     float:left;
+}
+footer a:hover{
+    color: #7cfc00;
 }
